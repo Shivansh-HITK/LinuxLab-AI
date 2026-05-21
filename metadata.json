@@ -1,0 +1,6 @@
+{
+  "name": "LinuxLab AI",
+  "description": "A next-generation developer learning platform where users can practice Linux commands in a simulated environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
